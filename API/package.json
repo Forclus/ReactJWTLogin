@@ -1,0 +1,21 @@
+{
+  "name": "ccpanelapi",
+  "version": "0.0.1",
+  "description": "api to connect ui CCPanel with database and some functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "author": "SwadowMaster",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "cookie-parser": "^1.4.6",
+    "coolors": "^0.0.2",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.9.4",
+    "nodemon": "^3.1.0",
+    "winston": "^3.13.0"
+  }
+}
